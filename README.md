@@ -1,6 +1,7 @@
 # Genie_manuscript_data_analysis
 Repository containing R code for the analysis of student pre- and post-recitation responses to the Genetic Drift inventory developed by Price et al. (2014).
-Responses were recorded following instruction with Genie in 2016, as well as with and without Genie in 2017.
+Responses were recorded following instruction with Genie in 2016, as well as with and without Genie in 2017. All datafiles used are included in the repository and can 
+be readily used following change of setwd() within the R code.
 
 Neutral evolution is a fundamental concept in evolutionary biology but teaching this and other non-adaptive concepts is specially challenging. Here we present Genie, 
 a browser-based educational tool that facilitates demonstration of concepts such as genetic drift, population isolation, gene flow, and genetic mutation. Because it
